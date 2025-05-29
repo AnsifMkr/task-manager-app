@@ -26,7 +26,7 @@ A clean, modern, and minimalistic **Task Manager (To-Do App)** built with **Reac
 - [React](https://reactjs.org/)
 - [Axios](https://axios-http.com/)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Go (backend)](https://golang.org/) *(separate project)*
+- [Go (backend)](https://golang.org/) 
 
 ---
 
