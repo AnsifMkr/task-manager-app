@@ -2,7 +2,7 @@
 
 A clean, modern, and minimalistic **Task Manager (To-Do App)** built with **React** and **Axios**, featuring a fully functional connection to a RESTful backend API in Golang.
 
-![Task Manager Screenshot](https://via.placeholder.com/800x400.png?text=Task+Manager+Screenshot)
+
 
 ---
 
